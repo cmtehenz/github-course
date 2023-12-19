@@ -11,4 +11,5 @@ Comandos
  - git log --graph
  - git shortlog
 
- - git diff 
+ - git diff
+ - git diff --name-only 
