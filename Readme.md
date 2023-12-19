@@ -23,4 +23,7 @@ Comandos
  - git remote
  - git remote -v
 
- -
+ - git push origin main
+
+
+ - git clone git@github.com:cmtehenz/github-course.git
