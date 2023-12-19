@@ -28,4 +28,6 @@ Comandos
 
  - git clone git@github.com:cmtehenz/github-course.git
 
- - fazendo teste fork
+ - git checkout -b testing // cria branch
+ - git checkout main // muda a branch
+ - git branch //lista os branch
