@@ -13,3 +13,9 @@ Comandos
 
  - git diff
  - git diff --name-only 
+
+ - git checkout Readme.md
+
+ - git reset --soft dc1abe8e...
+ - git reset --mixed dc1abe8e...
+ - git reset --hard dc1abe8e...
